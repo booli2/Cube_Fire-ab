@@ -10,6 +10,8 @@
   position. This results in a regular 3D array of spheres. The size of the
   spheres pulses, and their position in 3D space oscillates at different
   frequencies.
+  
+  Modified by Andrew Dolan & Bill Ernst, but created by some oither wizard.
 */
 
 
